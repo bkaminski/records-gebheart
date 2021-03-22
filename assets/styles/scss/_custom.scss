@@ -1,0 +1,31 @@
+body, html {
+    padding: 0;
+    margin:0;
+    height: 100%;
+}
+body {
+	padding-top: 95px;
+}
+.home-hero {
+	min-height: 490px;
+	width: 100%;
+	position: relative;
+	background-image: url('../../../../uploads/gebhart-hero-bg.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	z-index: 0;
+}
+.home-about {
+	width: 100%;
+	min-height: 570px;
+	background: #eaebc9;
+}
+.about-img {
+	position: relative;
+	display: block;
+	min-height: 570px;
+	width: 100%;
+	background-image: url('../../../../uploads/about-us-bg.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}

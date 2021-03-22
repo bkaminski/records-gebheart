@@ -1,0 +1,31 @@
+.navbar-nav > li {
+  padding-left: 40px;
+  padding-right: 40px;
+  font-size: 1rem;
+}
+a.nav-link {
+	color: #086022;
+	transition: 0.3s ease-in-out;
+	&:hover {
+		color: #f0b310;
+		transition: 0.3s ease-in-out;
+	}
+}
+.btn-green {
+	background: #c5c75a;
+	&:hover {
+		background: #086022;
+	}
+}
+.btn-dark-green {
+	background: #086022;
+	color: #fff;
+	&:hover {
+		color:  #086022;
+		background: #fff;
+
+	}
+}
+.text-green {
+	color: #086022;
+}
