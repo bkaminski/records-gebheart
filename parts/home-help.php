@@ -1,7 +1,7 @@
 <section>
 	<div class="home-help">
 		<div class="container text-center pt-4 pb-5">
-			<h2 class="text-green pb-4">How Can We Help You?</h2>
+			<h2 class="text-green pb-4 fw-bold">How Can We Help You?</h2>
 			<div class="row row-cols-1 row-cols-md-3 g-5">
 				<div class="col">
 					<div class="card h-100">

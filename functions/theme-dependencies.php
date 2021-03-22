@@ -10,6 +10,7 @@ add_action('wp_enqueue_scripts', 'enqueue_dmi_scripts');
 //LOAD CSS
 function enqueue_dmi_styles() {
     wp_enqueue_style('bootstrap-5.0-beta2', 'https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css');
+    wp_enqueue_style('google-fonts', 'https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
     wp_enqueue_style('dmi-styles', get_template_directory_uri() . '/assets/styles/dmiStyles.min.css');
 }
 add_action('wp_enqueue_scripts', 'enqueue_dmi_styles');

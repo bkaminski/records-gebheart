@@ -37,3 +37,28 @@ body {
 .rg-card {
 	background: #f7fbfe;
 }
+.cursive {
+	font-family: 'Parisienne', cursive;
+}
+.testimonials {
+	width: 100%;
+	min-height: 300px;
+	position: relative;
+	background-image: url('../../../../uploads/testimonial-bg1.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.contact {
+	width: 100%;
+	min-height: 400px;
+	position: relative;
+}
+.google-map {
+	width: 100%;
+	position: relative;
+}
+.footer {
+	background: #C5C75A;
+	min-height: 80px;
+	width: 100%;
+}

@@ -6,4 +6,10 @@
 
 <?php echo get_template_part( 'parts/home', 'help' ); ?>
 
+<?php echo get_template_part( 'parts/home', 'testimonials' ); ?>
+
+<?php echo get_template_part( 'parts/home', 'contact' ); ?>
+
+<?php echo get_template_part( 'parts/home', 'map' ); ?>
+
 <?php get_footer(); ?>
