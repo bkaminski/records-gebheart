@@ -23,9 +23,17 @@ body {
 .about-img {
 	position: relative;
 	display: block;
-	min-height: 570px;
+	min-height: 660px;
 	width: 100%;
 	background-image: url('../../../../uploads/about-us-bg.png');
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+.home-help {
+	background: #f5f5f5;
+	width: 100%;
+	min-height: 500px;
+}
+.rg-card {
+	background: #f7fbfe;
 }
