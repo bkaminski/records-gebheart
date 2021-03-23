@@ -62,3 +62,49 @@ body {
 	min-height: 80px;
 	width: 100%;
 }
+.local {
+	display: block;
+	@include breakpoint (sm) {
+
+	}
+	@include breakpoint (md) {
+		margin-right: -90px;
+	}
+	@include breakpoint (lg) {
+		margin-right: -100px;
+	}
+}
+.header-area {
+	display: block;
+	@include breakpoint (sm) {
+
+	}
+	@include breakpoint (md) {
+		padding-right: 120px;
+	}
+	@include breakpoint (lg) {
+		padding-right: 210px;
+	}
+	@include breakpoint (xl) {
+		padding-right: 300px;
+	}
+}
+.trusted-choice {
+	display: block;
+	@include breakpoint (sm) {
+		padding-right: 0px;
+		margin-top:-60px;
+	}
+	@include breakpoint (md) {
+		padding-right: 0px;
+		margin-top:-60px;
+	}
+	@include breakpoint (lg) {
+		padding-right: 80px;
+		margin-top:-60px;
+	}
+	@include breakpoint (xl) {
+		padding-right: 170px;
+		margin-top:-60px;
+	}
+}
