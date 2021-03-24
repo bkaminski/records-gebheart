@@ -23,6 +23,12 @@ body {
 	min-height: 570px;
 	background: #eaebc9;
 }
+.home-about-int {
+	width: 100%;
+	min-height: 570px;
+	background: #fff;
+	border-bottom: 5px solid #C5C75A;
+}
 .about-img {
 	position: relative;
 	display: block;
@@ -38,6 +44,9 @@ body {
 	min-height: 500px;
 }
 .rg-card {
+	background: #f7fbfe;
+}
+.help-icon {
 	background: #f7fbfe;
 }
 .cursive {
@@ -63,6 +72,11 @@ body {
 .footer {
 	background: #C5C75A;
 	min-height: 80px;
+	width: 100%;
+}
+.header-bar {
+	height: 25px;
+	background: #086022;
 	width: 100%;
 }
 .local {
@@ -109,5 +123,25 @@ body {
 	@include breakpoint (xl) {
 		padding-right: 170px;
 		margin-top:-60px;
+	}
+}
+.about--us {
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+	@include breakpoint (sm) {
+		padding-top: 3rem;
+		padding-bottom: 3rem;
+	}
+	@include breakpoint (md) {
+		padding-top: 6rem;
+		padding-bottom: 0rem;
+	}
+	@include breakpoint (lg) {
+		padding-top: 8rem;
+		padding-bottom: 0rem;
+	}
+	@include breakpoint (xl) {
+		padding-top: 9.5rem;
+		padding-bottom: 0rem;
 	}
 }
