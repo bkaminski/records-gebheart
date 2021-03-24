@@ -10,10 +10,13 @@ body {
 	min-height: 490px;
 	width: 100%;
 	position: relative;
-	background-image: url('../../../../uploads/gebhart-hero-bg.png');
+	background-image: url('../../../../uploads/gebhart-hero-bg-mobile.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	z-index: 0;
+	@include breakpoint (md) {
+		background-image: url('../../../../uploads/gebhart-hero-bg.png');
+	}
 }
 .home-about {
 	width: 100%;

@@ -6,7 +6,9 @@
 				<div class="col">
 					<div class="card h-100">
 						<div class="text-center">
-							<img src="<?php echo get_home_url(); ?>/wp-content/uploads/auto-icon.png" class="img-fluid" alt="Icon of an automobile" width="160">
+							<picture>
+								<img src="<?php echo get_home_url(); ?>/wp-content/uploads/auto-icon.png" class="img-fluid" alt="Icon of an automobile" width="160">
+							</picture>
 						</div>
 						<div class="card-body rg-card">
 							<h5 class="h4 card-title text-green">Auto / Boat / RV <br />Motorcycle</h5>
@@ -19,7 +21,9 @@
 				<div class="col">
 					<div class="card h-100">
 						<div class="text-center">
-							<img src="<?php echo get_home_url(); ?>/wp-content/uploads/home-icon.png" class="img-fluid" alt="Icon of a home" width="160">
+							<picture>
+								<img src="<?php echo get_home_url(); ?>/wp-content/uploads/home-icon.png" class="img-fluid" alt="Icon of a home" width="160">
+							</picture>
 						</div>
 						<div class="card-body rg-card">
 							<h5 class="h4 card-title text-green">Homeowners</h5>
@@ -32,7 +36,9 @@
 				<div class="col">
 					<div class="card h-100">
 						<div class="text-center">
-							<img src="<?php echo get_home_url(); ?>/wp-content/uploads/building-icon.png" class="img-fluid" alt="Icon of a building" width="160">
+							<picture>
+								<img src="<?php echo get_home_url(); ?>/wp-content/uploads/building-icon.png" class="img-fluid" alt="Icon of a building" width="160">
+							</picture>
 						</div>
 						<div class="card-body rg-card">
 							<h5 class="h4 card-title text-green">Workers Compensation<br /> Insurance</h5>
@@ -45,7 +51,9 @@
 				<div class="col">
 					<div class="card h-100">
 						<div class="text-center">
-							<img src="<?php echo get_home_url(); ?>/wp-content/uploads/umbrella-icon.png" class="img-fluid" alt="Icon of an automobile" width="160">
+							<picture>
+								<img src="<?php echo get_home_url(); ?>/wp-content/uploads/umbrella-icon.png" class="img-fluid" alt="Icon of an automobile" width="160">
+							</picture>
 						</div>
 						<div class="card-body rg-card">
 							<h5 class="h4 card-title text-green">Umbrella Insurance</h5>
@@ -58,7 +66,9 @@
 				<div class="col">
 					<div class="card h-100">
 						<div class="text-center">
-							<img src="<?php echo get_home_url(); ?>/wp-content/uploads/corn-icon.png" class="img-fluid" alt="Icon of an ear of corn" width="160">
+							<picture>
+								<img src="<?php echo get_home_url(); ?>/wp-content/uploads/corn-icon.png" class="img-fluid" alt="Icon of an ear of corn" width="160">
+							</picture>
 						</div>
 						<div class="card-body rg-card">
 							<h5 class="h4 card-title text-green">Farm Insurance</h5>
@@ -71,7 +81,9 @@
 				<div class="col">
 					<div class="card h-100">
 						<div class="text-center">
-							<img src="<?php echo get_home_url(); ?>/wp-content/uploads/family-icon.png" class="img-fluid" alt="Icon of a family" width="160">
+							<picture>
+								<img src="<?php echo get_home_url(); ?>/wp-content/uploads/family-icon.png" class="img-fluid" alt="Icon of a family" width="160">
+							</picture>
 						</div>
 						<div class="card-body rg-card">
 							<h5 class="h4 card-title text-green">Life Insurance</h5>

@@ -6,11 +6,19 @@ $( document ).ready(function() {
 	var $window = $(window);
 	function checkWidth() {
 
-		if ($window.width() < 991) {
-			//$('.ins--logos').removeClass('float-end').addClass('text-center');
+		if ($window.width() < 975) {
+			$('.learn--more').removeClass('float-end');
+			$('.header-area').addClass('text-center');
+			$('.rg--logos').removeClass('float-end');
+			$('.trusted-choice').addClass('text-center pb-5');
+			$('.local').removeClass('float-end'); 
 		};
-		if ($window.width() >= 991) {
-			//$('.ins--logos').removeClass('text-center').addClass('float-end');
+		if ($window.width() >= 975) {
+			$('.learn--more').addClass('float-end');
+			$('.header-area').removeClass('text-center');
+			$('.rg--logos').addClass('float-end');
+			$('.trusted-choice').removeClass('text-center');
+			$('.local').addClass('float-end');
 		}
 	}
 	
