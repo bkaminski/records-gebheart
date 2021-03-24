@@ -4,6 +4,10 @@ node_modules/
 # ignore scripts.js unminified file
 assets/js/scripts.js
 
+# ignore video file
+assets/img/file.mp4
+assets/img/file.ogv
+
 # ignore img assets
 assets/img/
 

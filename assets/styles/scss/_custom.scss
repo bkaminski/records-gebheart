@@ -145,3 +145,46 @@ body {
 		padding-bottom: 0rem;
 	}
 }
+.video-hero {
+	min-height: 380px;
+	width: 100%;
+	background-image: url('../../../../uploads/header-video-poster.png'); 
+	background-repeat: no-repeat;
+	background-size: cover;
+	@include breakpoint (sm) {
+		height: 500px;
+		width: 100%;
+		display: block;
+		overflow: hidden;
+	}
+}
+#video1 { 
+	margin:0 auto;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    background-size: cover;
+    transition: 1s opacity;
+}
+.video-text {
+	height: 320px;
+	margin-top: -320px;
+	color: #fff;
+	@include breakpoint (sm) {
+		position: relative;
+		color: #fff;
+		padding-top: -2rem;
+		padding-left: 1.4rem;
+		display: block;
+		height: 400px;
+		margin-top: -400px;
+	}
+	
+}
+.services {
+	width: 100%;
+	min-height: 600px;
+	border-top: 60px solid #C5C75A;
+}
