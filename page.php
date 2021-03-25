@@ -14,5 +14,8 @@
 		<?php endwhile; else : ?>
 			<p><?php esc_html_e( 'Sorry, no posts matched your criteria.' ); ?></p>
 		<?php endif; ?>
+		<div class="col pb-2">
+			<?php the_tags('<span class="badge rounded-pill bg-secondary"><i class="fas fa-tags"></i> Related:</span>  ', ' • '); ?>
+		</div>
 	</div>
 <?php get_footer(); ?>

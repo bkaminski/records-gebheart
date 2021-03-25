@@ -1,6 +1,6 @@
 .navbar-nav > li {
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 13px;
+  padding-right: 13px;
   font-size: 1rem;
 }
 a.nav-link {
@@ -35,4 +35,8 @@ a.nav-link {
 .card-footer {
 	background: #f7fbfe;
 	border-top: 0px solid;
+}
+.alert-green {
+	background-color: #086022;
+	color: #fff;
 }

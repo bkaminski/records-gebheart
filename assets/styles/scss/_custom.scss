@@ -188,3 +188,16 @@ body {
 	min-height: 600px;
 	border-top: 60px solid #C5C75A;
 }
+[rel=tag] {
+	color: #086022;
+	transition: 0.3s ease-in-out;
+	&:hover {
+		color: #f0b310;
+		transition: 0.3s ease-in-out;
+	}
+}
+.portal {
+	width: 100%;
+	min-height: 600px;
+	position: relative;
+}
