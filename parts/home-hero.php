@@ -13,7 +13,7 @@
 					</picture>
 				</div>
 				<div class="col-md-12 pt-2 header-area">
-					<a href="#" class="btn btn-lg btn-green rounded-pill text-white px-5 mb-4 learn--more float-end mb-3">Learn More</a>
+					<a href="<?php echo get_home_url(); ?>/about-us" class="btn btn-lg btn-green rounded-pill text-white px-5 mb-4 learn--more float-end mb-3">Learn More</a>
 					<div class="clearfix"></div>
 					<p class="h5 text-green local float-end">Your Local, Family Owned Insurance Agency</p>
 				</div>

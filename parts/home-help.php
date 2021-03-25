@@ -11,10 +11,10 @@
 							</picture>
 						</div>
 						<div class="card-body rg-card">
-							<h5 class="h4 card-title text-green">Auto / Boat / RV <br />Motorcycle</h5>
+							<h5 class="h4 card-title text-green">Auto Insurance</h5>
 						</div>
 						<div class="card-footer">
-							<a href="#" class="btn btn-dark-green rounded-pill px-3 mb-4">Learn More</a>
+							<a href="<?php echo get_home_url(); ?>/services#autoIns" class="btn btn-dark-green rounded-pill px-3 mb-4">Learn More</a>
 						</div>
 					</div>
 				</div>
@@ -29,7 +29,7 @@
 							<h5 class="h4 card-title text-green">Homeowners</h5>
 						</div>
 						<div class="card-footer">
-							<a href="#" class="btn btn-dark-green rounded-pill px-3 mb-4">Learn More</a>
+							<a href="<?php echo get_home_url(); ?>/services#homeIns" class="btn btn-dark-green rounded-pill px-3 mb-4">Learn More</a>
 						</div>
 					</div>
 				</div>
@@ -44,7 +44,7 @@
 							<h5 class="h4 card-title text-green">Workers Compensation<br /> Insurance</h5>
 						</div>
 						<div class="card-footer">
-							<a href="#" class="btn btn-dark-green rounded-pill px-3 mb-4">Learn More</a>
+							<a href="<?php echo get_home_url(); ?>/services#workComp" class="btn btn-dark-green rounded-pill px-3 mb-4">Learn More</a>
 						</div>
 					</div>
 				</div>
@@ -59,7 +59,7 @@
 							<h5 class="h4 card-title text-green">Umbrella Insurance</h5>
 						</div>
 						<div class="card-footer">
-							<a href="#" class="btn btn-dark-green rounded-pill px-3 mb-4">Learn More</a>
+							<a href="<?php echo get_home_url(); ?>/services#umbrella" class="btn btn-dark-green rounded-pill px-3 mb-4">Learn More</a>
 						</div>
 					</div>
 				</div>
@@ -74,7 +74,7 @@
 							<h5 class="h4 card-title text-green">Farm Insurance</h5>
 						</div>
 						<div class="card-footer">
-							<a href="#" class="btn btn-dark-green rounded-pill px-3 mb-4">Learn More</a>
+							<a href="<?php echo get_home_url(); ?>/services#farmIns" class="btn btn-dark-green rounded-pill px-3 mb-4">Learn More</a>
 						</div>
 					</div>
 				</div>
@@ -89,7 +89,37 @@
 							<h5 class="h4 card-title text-green">Life Insurance</h5>
 						</div>
 						<div class="card-footer">
-							<a href="#" class="btn btn-dark-green rounded-pill px-3 mb-4">Learn More</a>
+							<a href="<?php echo get_home_url(); ?>/services#lifeIns" class="btn btn-dark-green rounded-pill px-3 mb-4 life--ins">Learn More</a>
+						</div>
+					</div>
+				</div>
+				<div class="col">
+					<div class="card h-100">
+						<div class="text-center help-icon">
+							<picture>
+								<img src="<?php echo get_home_url(); ?>/wp-content/uploads/business-ins.png" class="img-fluid" alt="Icon of a family" width="160">
+							</picture>
+						</div>
+						<div class="card-body rg-card">
+							<h5 class="h4 card-title text-green">Business Insurance</h5>
+						</div>
+						<div class="card-footer">
+							<a href="<?php echo get_home_url(); ?>/services#business" class="btn btn-dark-green rounded-pill px-3 mb-4">Learn More</a>
+						</div>
+					</div>
+				</div>
+				<div class="col">
+					<div class="card h-100">
+						<div class="text-center help-icon">
+							<picture>
+								<img src="<?php echo get_home_url(); ?>/wp-content/uploads/boat-ins.png" class="img-fluid" alt="Icon of a family" width="150">
+							</picture>
+						</div>
+						<div class="card-body rg-card">
+							<h5 class="h4 card-title text-green">Boat, RV, Motorcycle, Classic Car</h5>
+						</div>
+						<div class="card-footer">
+							<a href="<?php echo get_home_url(); ?>/services#boatIns" class="btn btn-dark-green rounded-pill px-3 mb-4">Learn More</a>
 						</div>
 					</div>
 				</div>

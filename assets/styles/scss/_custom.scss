@@ -3,6 +3,9 @@ body, html {
     margin:0;
     height: 100%;
 }
+html {
+	scroll-behavior: smooth;
+}
 body {
 	padding-top: 95px;
 }
@@ -200,4 +203,15 @@ body {
 	width: 100%;
 	min-height: 600px;
 	position: relative;
+}
+#boatIns,
+#business,
+#homeIns,
+#workComp,
+#umbrella,
+#farmIns,
+#lifeIns,
+#autoIns {
+	scroll-behavior: scroll;
+	padding: 50px;
 }

@@ -2,6 +2,7 @@
 	<div class="services pt-5 pb-5">
 		<div class="container pb-5">
 			<p class="text-center">We are the premier provider for all of your insurance needs. Our goal is to provide the very best in customer service. Because our quality control standards are high, our Account Managers are among the best in the business. Our goal is to always deliver access to many markets, immediate coverage, and real time customer service. We want you, our valued customer, to be happy!</p>
+			<div id="autoIns"></div>
 			<div class="row pt-3 pb-3">
 				<div class="col-md-6">
 					<h2 class="h1 text-green fw-bold"><span class="text-light-green">Personal</span> Auto Insurance</h2>
@@ -14,6 +15,7 @@
 					</picture>
 				</div>
 			</div>
+			<div id="homeIns"></div>
 			<div class="row pt-3 pb-3">
 				<div class="col-md-6">
 					<picture>
@@ -26,6 +28,7 @@
 					<p>Coverages include: losses occurring to one's home, its contents, loss of use (additional living expenses), & loss of other personal possessions of the homeowner, as well as liability insurance.  </p>
 				</div>
 			</div>
+			<div id="workComp"></div>
 			<div class="row pt-3 pb-3">
 				<div class="col-md-6">
 					<h2 class="h1 text-green fw-bold"><span class="text-light-green">Workers</span> Compensation Insurance</h2>
@@ -38,6 +41,7 @@
 					</picture>
 				</div>
 			</div>
+			<div id="umbrella"></div>
 			<div class="row pt-3 pb-3">
 				<div class="col-md-6">
 					<picture>
@@ -50,6 +54,7 @@
 					<p>Personal & commercial. Provides liability insurance that is in excess of specified other policies & also potentially primary insurance for losses not covered by the other policies. </p>
 				</div>
 			</div>
+			<div id="farmIns"></div>
 			<div class="row pt-3 pb-3">
 				<div class="col-md-6">
 					<h2 class="h1 text-green fw-bold"><span class="text-light-green">Farm</span> Insurance</h2>
@@ -62,6 +67,7 @@
 					</picture>
 				</div>
 			</div>
+			<div id="lifeIns"></div>
 			<div class="row pt-3 pb-3">
 				<div class="col-md-6">
 					<picture>
@@ -74,6 +80,7 @@
 					<p>Provides coverage for you & your loved ones in the event of death of the insured. Protection & investment (whole life, universal life, & variable life) policies are available. </p>
 				</div>
 			</div>
+			<div id="boatIns"></div>
 			<div class="row pt-3 pb-3">
 				<div class="col-md-6">
 					<h2 class="h1 text-green fw-bold"><span class="text-light-green">Boat, RV, Motorcycle, Classic Car</span> Insurance</h2>
@@ -86,6 +93,7 @@
 					</picture>
 				</div>
 			</div>
+			<div id="business"></div>
 			<div class="row pt-3 pb-3">
 				<div class="col-md-6">
 					<picture>
