@@ -97,7 +97,7 @@
 					<div class="card h-100">
 						<div class="text-center help-icon">
 							<picture>
-								<img src="<?php echo get_home_url(); ?>/wp-content/uploads/business-ins.png" class="img-fluid" alt="Icon of a family" width="160">
+								<img src="<?php echo get_home_url(); ?>/wp-content/uploads/business-ins.png" class="img-fluid" alt="Icon of two hands shaking" width="160">
 							</picture>
 						</div>
 						<div class="card-body rg-card">
@@ -112,7 +112,7 @@
 					<div class="card h-100">
 						<div class="text-center help-icon">
 							<picture>
-								<img src="<?php echo get_home_url(); ?>/wp-content/uploads/boat-ins.png" class="img-fluid" alt="Icon of a family" width="150">
+								<img src="<?php echo get_home_url(); ?>/wp-content/uploads/boat-ins.png" class="img-fluid" alt="Icon of a Boat Anchor" width="160">
 							</picture>
 						</div>
 						<div class="card-body rg-card">

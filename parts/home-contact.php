@@ -19,7 +19,7 @@
 						<div class="col-md-6">
 							<p>(877) 790-7945<br />Fax (302) 653-5803</p>
 							<p class="pb-3">Like Us on <strong>Facebook</strong> & <strong>Instagram!</strong></p>
-								<i class="fab fa-facebook-square fa-3x fa-fw"></i><i class="fab fa-instagram-square fa-3x fa-fw"></i>
+								<a target="_blank" class="text-white" href="https://www.facebook.com/RecordsGebhartAgency"><i class="fab fa-facebook-square fa-3x fa-fw"></i></a><a target="_blank" class="text-white" href="https://www.instagram.com/recordsgebhartagencyinc/"><i class="fab fa-instagram-square fa-3x fa-fw"></i></a>
 						</div>
 						<div class="col-md-6">
 							<picture>
