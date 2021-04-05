@@ -28,16 +28,16 @@
 					<p>Coverages include: losses occurring to one's home, its contents, loss of use (additional living expenses), & loss of other personal possessions of the homeowner, as well as liability insurance.  </p>
 				</div>
 			</div>
-			<div id="workComp"></div>
+			<div id="business"></div>
 			<div class="row pt-3 pb-3">
 				<div class="col-md-6">
-					<h2 class="h1 text-green fw-bold"><span class="text-light-green">Workers</span> Compensation Insurance</h2>
+					<h2 class="h1 text-green fw-bold"><span class="text-light-green">Business Liability</span> Insurance</h2>
 					<hr>
-					<p>Workers' compensation insurance is a type of business insurance that provides benefits to employees who suffer work-related injuries or illnesses. Specifically, this insurance helps pay for medical care, wages from lost work time and more.</p>
+					<p>General liability/Errors & Omissions liability, etc There are many forms of coverage crucial to a business to consider. We have packages for most any type business. We specialize in Contractors packages</p>
 				</div>
 				<div class="col-md-6">
 					<picture>
-						<img src="<?php echo get_home_url(); ?>/wp-content/uploads/image-by-Tom-Class.png" alt="Picture of doctor attending to a patient" class="img-fluid" />
+						<img src="<?php echo get_home_url(); ?>/wp-content/uploads/Carpenter.png" alt="Picture of a carpenter sawing wood" class="img-fluid" />
 					</picture>
 				</div>
 			</div>
@@ -91,19 +91,6 @@
 					<picture>
 						<img src="<?php echo get_home_url(); ?>/wp-content/uploads/Motorcycle-on-the-road.png" alt="Picture of a family having fun" class="img-fluid" />
 					</picture>
-				</div>
-			</div>
-			<div id="business"></div>
-			<div class="row pt-3 pb-3">
-				<div class="col-md-6">
-					<picture>
-						<img src="<?php echo get_home_url(); ?>/wp-content/uploads/Carpenter.png" alt="Picture of a carpenter sawing wood" class="img-fluid" />
-					</picture>
-				</div>
-				<div class="col-md-6">
-					<h2 class="h1 text-green fw-bold"><span class="text-light-green">Business Liability</span> Insurance</h2>
-					<hr>
-					<p>General liability/Errors & Omissions liability, etc There are many forms of coverage crucial to a business to consider. We have packages for most any type business. We specialize in Contractors packages</p>
 				</div>
 			</div>
 		</div>

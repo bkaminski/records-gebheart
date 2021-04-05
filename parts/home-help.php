@@ -37,14 +37,14 @@
 					<div class="card h-100">
 						<div class="text-center help-icon">
 							<picture>
-								<img src="<?php echo get_home_url(); ?>/wp-content/uploads/building-icon.png" class="img-fluid" alt="Icon of a building" width="160">
+								<img src="<?php echo get_home_url(); ?>/wp-content/uploads/handshake.png" class="img-fluid" alt="Icon of two hands shaking" width="160">
 							</picture>
 						</div>
 						<div class="card-body rg-card">
-							<h5 class="h4 card-title text-green">Workers Compensation<br /> Insurance</h5>
+							<h5 class="h4 card-title text-green">Business Insurance</h5>
 						</div>
 						<div class="card-footer">
-							<a href="<?php echo get_home_url(); ?>/services#workComp" class="btn btn-dark-green rounded-pill px-3 mb-4">Learn More</a>
+							<a href="<?php echo get_home_url(); ?>/services#business" class="btn btn-dark-green rounded-pill px-3 mb-4">Learn More</a>
 						</div>
 					</div>
 				</div>
@@ -90,36 +90,6 @@
 						</div>
 						<div class="card-footer">
 							<a href="<?php echo get_home_url(); ?>/services#lifeIns" class="btn btn-dark-green rounded-pill px-3 mb-4 life--ins">Learn More</a>
-						</div>
-					</div>
-				</div>
-				<div class="col">
-					<div class="card h-100">
-						<div class="text-center help-icon">
-							<picture>
-								<img src="<?php echo get_home_url(); ?>/wp-content/uploads/business-ins.png" class="img-fluid" alt="Icon of two hands shaking" width="160">
-							</picture>
-						</div>
-						<div class="card-body rg-card">
-							<h5 class="h4 card-title text-green">Business Insurance</h5>
-						</div>
-						<div class="card-footer">
-							<a href="<?php echo get_home_url(); ?>/services#business" class="btn btn-dark-green rounded-pill px-3 mb-4">Learn More</a>
-						</div>
-					</div>
-				</div>
-				<div class="col">
-					<div class="card h-100">
-						<div class="text-center help-icon">
-							<picture>
-								<img src="<?php echo get_home_url(); ?>/wp-content/uploads/boat-ins.png" class="img-fluid" alt="Icon of a Boat Anchor" width="160">
-							</picture>
-						</div>
-						<div class="card-body rg-card">
-							<h5 class="h4 card-title text-green">Boat, RV, Motorcycle, Classic Car</h5>
-						</div>
-						<div class="card-footer">
-							<a href="<?php echo get_home_url(); ?>/services#boatIns" class="btn btn-dark-green rounded-pill px-3 mb-4">Learn More</a>
 						</div>
 					</div>
 				</div>
