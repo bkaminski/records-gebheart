@@ -38,7 +38,7 @@
 				<div class="col-md-4 pb-4 text-center">
 					<picture>
 						<a target="_blank" href="https://www.msagroup.com/">
-							<img src="<?php echo get_home_url();?>/wp-content/uploads/main-street-america.png" class="img-fluid" alt="The Maint Street America Group Logo" width="150" />
+							<img src="<?php echo get_home_url();?>/wp-content/uploads/main-street-america.png" class="img-fluid" alt="The Main Street America Group Logo" width="150" />
 						</a>
 					</picture>
 				</div>
